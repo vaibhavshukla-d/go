@@ -1,0 +1,10 @@
+what will i learn from this problem?
+
+what the time and space complexity?
+
+what the brute force method?
+
+What the most effiecient way to solved this?
+
+Where can i use the logic in real time scenario?
+
