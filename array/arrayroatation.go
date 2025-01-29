@@ -5,10 +5,14 @@ import "fmt"
 func Rotation() {
 	array := []int{1, 2, 4, 5, 6, 7}
 
-	result := make([]int, len(array))
+	
+	// result := make([]int,len(array))
 
-	copy(result, array)
+	//rotate by 3 value
+	// k := 3
 
-	fmt.Println(result)
+	// result = append(result,array[k:])
+
+	fmt.Println(array[3:])
 
 }

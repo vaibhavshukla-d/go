@@ -2,8 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Map() {
 	fmt.Println("test")
-	MaxSubArray()
-	// Rotation()
+    var armp = make(map[int][]int)
 }
